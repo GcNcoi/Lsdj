@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daa99967-c28c-4ef8-b3bd-fe717b83313c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/config/MapConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-gateway/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server-gateway/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-client/service-driver-client/src/main/java/com/atguigu/daijia/driver/client/DriverInfoFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-client/service-driver-client/src/main/java/com/atguigu/daijia/driver/client/DriverInfoFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-client/service-map-client/src/main/java/com/atguigu/daijia/map/client/MapFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-client/service-map-client/src/main/java/com/atguigu/daijia/map/client/MapFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-customer/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-customer/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/config/TencentCloudProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/config/TencentCloudProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/controller/DriverInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/controller/DriverInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/service/DriverInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/service/DriverInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/service/impl/DriverInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/service/impl/DriverInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-driver/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-driver/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/controller/MapController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/controller/MapController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/service/MapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/service/MapService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/service/impl/MapServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/service/impl/MapServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-customer/src/main/java/com/atguigu/daijia/customer/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-customer/src/main/java/com/atguigu/daijia/customer/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-customer/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-customer/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/controller/DriverController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/controller/DriverController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/DriverService.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/DriverService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/impl/DriverServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/impl/DriverServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GcNcoi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:GcNcoi/Lsdj.git&quot;,
+    &quot;accountId&quot;: &quot;cb98411b-113c-423e-aba1-bea1ea6a48ed&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Software\Maven\apache-maven-3.9.9" />
+        <option name="localRepository" value="D:\Software\Maven\apache-maven-3.9.9\repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Software\Maven\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="32hB0SukE5XuKKU5rqKA8UczJUP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ServerGatewayApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.ServiceCustomerApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.WebCustomerApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/lsdj/daijia-parent&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServerGatewayApplication">
+    <configuration name="ServerGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="server-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServerGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-coupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServiceCouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-customer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServiceCustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceDispatchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-dispatch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServiceDispatchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceDriverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-driver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServiceDriverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMapApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-map" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServiceMapApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-mq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServiceMqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServiceOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicePaymentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-payment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServicePaymentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceRulesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-rules" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServiceRulesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.ServiceSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebCustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="web-customer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.WebCustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="web-driver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.WebDriverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebMgrApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="web-mgr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.daijia.WebMgrApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daa99967-c28c-4ef8-b3bd-fe717b83313c" name="Changes" comment="" />
+      <created>1757862701183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757862701183</updated>
+      <workItem from="1757862702938" duration="3091000" />
+      <workItem from="1757865811491" duration="1400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

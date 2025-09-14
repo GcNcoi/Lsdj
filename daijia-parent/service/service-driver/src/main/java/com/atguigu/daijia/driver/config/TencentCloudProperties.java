@@ -30,4 +30,9 @@ public class TencentCloudProperties {
      * 功能描述: 腾讯云 bucketPrivate
      */
     private String bucketPrivate;
+    /**
+     * 功能描述: 腾讯云 personGroupId
+     */
+    private String personGroupId;
+
 }
