@@ -5,43 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daa99967-c28c-4ef8-b3bd-fe717b83313c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/service/service-rules/src/main/java/com/atguigu/daijia/rules/config/DroolsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server-gateway/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server-gateway/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-client/service-driver-client/src/main/java/com/atguigu/daijia/driver/client/DriverInfoFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-client/service-driver-client/src/main/java/com/atguigu/daijia/driver/client/DriverInfoFeignClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-client/service-map-client/src/main/java/com/atguigu/daijia/map/client/LocationFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-client/service-map-client/src/main/java/com/atguigu/daijia/map/client/LocationFeignClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-client/service-map-client/target/classes/com/atguigu/daijia/map/client/MapFeignClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-client/service-map-client/target/classes/com/atguigu/daijia/map/client/MapFeignClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-client/service-order-client/src/main/java/com/atguigu/daijia/order/client/OrderInfoFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-client/service-order-client/src/main/java/com/atguigu/daijia/order/client/OrderInfoFeignClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-client/service-rules-client/src/main/java/com/atguigu/daijia/rules/client/FeeRuleFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-client/service-rules-client/src/main/java/com/atguigu/daijia/rules/client/FeeRuleFeignClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-customer/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-customer/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/controller/DriverInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/controller/DriverInfoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/service/DriverInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/service/DriverInfoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/service/impl/DriverInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-driver/src/main/java/com/atguigu/daijia/driver/service/impl/DriverInfoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-map/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-map/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/controller/LocationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/controller/LocationController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/service/LocationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/service/LocationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/service/impl/LocationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/service/impl/LocationServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-map/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-map/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-order/src/main/java/com/atguigu/daijia/order/controller/OrderInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/src/main/java/com/atguigu/daijia/order/controller/OrderInfoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-order/src/main/java/com/atguigu/daijia/order/service/OrderInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/src/main/java/com/atguigu/daijia/order/service/OrderInfoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-order/src/main/java/com/atguigu/daijia/order/service/impl/OrderInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/src/main/java/com/atguigu/daijia/order/service/impl/OrderInfoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-order/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-order/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-rules/src/main/java/com/atguigu/daijia/rules/controller/FeeRuleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-rules/src/main/java/com/atguigu/daijia/rules/controller/FeeRuleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-rules/src/main/java/com/atguigu/daijia/rules/service/FeeRuleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-rules/src/main/java/com/atguigu/daijia/rules/service/FeeRuleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-rules/src/main/java/com/atguigu/daijia/rules/service/impl/FeeRuleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-rules/src/main/java/com/atguigu/daijia/rules/service/impl/FeeRuleServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-rules/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-rules/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-customer/src/main/java/com/atguigu/daijia/customer/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-customer/src/main/java/com/atguigu/daijia/customer/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-customer/src/main/java/com/atguigu/daijia/customer/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-customer/src/main/java/com/atguigu/daijia/customer/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-customer/src/main/java/com/atguigu/daijia/customer/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-customer/src/main/java/com/atguigu/daijia/customer/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-customer/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-customer/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/controller/LocationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/controller/LocationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/LocationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/LocationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/impl/LocationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/impl/LocationServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-driver/src/main/java/com/atguigu/daijia/driver/service/impl/OrderServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,35 +59,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.ServerGatewayApplication.executor": "Debug",
-    "Spring Boot.ServiceCustomerApplication.executor": "Debug",
-    "Spring Boot.WebCustomerApplication.executor": "Debug",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/project/LSDJ/daijia-parent/service/service-rules/src/main/resources/rules",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "767a80d07ce3c15b6dc31794fdd5c735",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ServerGatewayApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.ServiceCustomerApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.WebCustomerApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/project/LSDJ/daijia-parent/service/service-rules/src/main/resources/rules&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;767a80d07ce3c15b6dc31794fdd5c735&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -298,7 +264,8 @@
       <updated>1757862701183</updated>
       <workItem from="1757862702938" duration="3091000" />
       <workItem from="1757865811491" duration="1400000" />
-      <workItem from="1757899497121" duration="8559000" />
+      <workItem from="1757899497121" duration="12427000" />
+      <workItem from="1758185174176" duration="18000" />
     </task>
     <servers />
   </component>
