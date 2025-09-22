@@ -5,50 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daa99967-c28c-4ef8-b3bd-fe717b83313c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/ServiceDriverApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/config/TencentCloudProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/config/WxMaConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/config/WxMaProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/controller/CiController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/controller/CosController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/controller/DriverAccountController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/controller/DriverInfoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/controller/OcrController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/mapper/DriverAccountDetailMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/mapper/DriverAccountMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/mapper/DriverFaceRecognitionMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/mapper/DriverInfoMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/mapper/DriverLoginLogMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/mapper/DriverSetMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/service/CiService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/service/CosService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/service/DriverAccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/service/DriverInfoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/service/OcrService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/service/impl/CiServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/service/impl/CosServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/service/impl/DriverAccountServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/service/impl/DriverInfoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/com/atguigu/daijia/driver/service/impl/OcrServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/mapper/DriverAccountDetailMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/mapper/DriverAccountMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-driver/target/classes/mapper/DriverInfoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-map/target/classes/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-map/target/classes/com/atguigu/daijia/ServiceMapApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-map/target/classes/com/atguigu/daijia/map/config/MapConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-map/target/classes/com/atguigu/daijia/map/controller/LocationController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-map/target/classes/com/atguigu/daijia/map/controller/MapController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-map/target/classes/com/atguigu/daijia/map/repository/OrderServiceLocationRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-map/target/classes/com/atguigu/daijia/map/service/LocationService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-map/target/classes/com/atguigu/daijia/map/service/MapService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-map/target/classes/com/atguigu/daijia/map/service/impl/LocationServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service-map/target/classes/com/atguigu/daijia/map/service/impl/MapServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-client/service-driver-client/target/classes/com/atguigu/daijia/driver/client/DriverInfoFeignClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-client/service-driver-client/target/classes/com/atguigu/daijia/driver/client/DriverInfoFeignClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-client/service-map-client/target/classes/com/atguigu/daijia/map/client/LocationFeignClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-client/service-map-client/target/classes/com/atguigu/daijia/map/client/LocationFeignClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-client/service-order-client/target/classes/com/atguigu/daijia/order/client/OrderInfoFeignClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-client/service-order-client/target/classes/com/atguigu/daijia/order/client/OrderInfoFeignClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/service/impl/LocationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-map/src/main/java/com/atguigu/daijia/map/service/impl/LocationServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-map/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-map/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-dispatch/src/main/java/com/atguigu/daijia/dispatch/xxl/config/XxlJobConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service-dispatch/src/main/java/com/atguigu/daijia/dispatch/xxl/job/DispatchJobHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-dispatch/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-dispatch/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +69,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.ServerGatewayApplication.executor": "Debug",
     "Spring Boot.ServiceCustomerApplication.executor": "Debug",
+    "Spring Boot.ServiceDispatchApplication.executor": "Debug",
     "Spring Boot.ServiceDriverApplication.executor": "Debug",
     "Spring Boot.ServiceMapApplication.executor": "Debug",
     "Spring Boot.WebCustomerApplication.executor": "Debug",
@@ -151,7 +111,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceDriverApplication">
+  <component name="RunManager" selected="Spring Boot.ServiceDispatchApplication">
     <configuration name="ElasticsearchDemoApplicationTests.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="service-rules" />
       <extension name="coverage">
@@ -310,6 +270,7 @@
       <workItem from="1757899497121" duration="12427000" />
       <workItem from="1758185174176" duration="18000" />
       <workItem from="1758464502046" duration="3876000" />
+      <workItem from="1758554176520" duration="2444000" />
     </task>
     <servers />
   </component>
